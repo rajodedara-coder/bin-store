@@ -1,2 +1,2 @@
 version=1.0.1
-url=https://github.com/rajodedara-coder/bin-store/releases/download/v99.0.0/NANDRAJ.exe
+url=https://github.com/rajodedara-coder/bin-store/releases/download/v1.0.1/NANDRAJ.exe
